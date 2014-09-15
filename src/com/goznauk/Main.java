@@ -3,7 +3,7 @@ package com.goznauk;
 public class Main {
     public static void main(String[] args) {
         // Edit this part! - example source
-        final String targetSourcePath = "http://sw.uos.ac.kr/ypats87/";
+        final String targetSourcePath = "http://your.com/url/here";
         final String targetFilePath = "./";
 
 
